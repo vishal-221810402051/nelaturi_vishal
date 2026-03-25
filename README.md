@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>M.E.D.I.S. – Portable AI-powered medicine synthesis system (microfluidics + automation + AI dosing)<br>Voice-Scaffold – Voice → Infrastructure compiler (Docker, FastAPI, AST-based generation)<br>InsightSentinel – AI-driven data monitoring & decision intelligence platform<br>👯 I’m looking to collaborate on<br>Deep-tech hardware + AI systems (MedTech, BioTech, Edge AI)<br>Data Engineering systems (Kafka, Spark, real-time pipelines)<br>Open-source tools that solve real-world inefficiencies<br>🤝 I’m looking for help with<br>Microfluidics & lab validation (for MEDIS)<br>Hardware partnerships (NVIDIA / Edge AI / embedded systems)<br>Regulatory pathways (EU MDR, medical device compliance)<br>🌱 I’m currently learning<br>Advanced Data Engineering (Kafka, Spark, distributed systems)<br>Edge AI + embedded inference (Jetson, ONNX)<br>System design for scalable + real-time architectures<br>💬 Ask me about<br>Building real-world AI + hardware products from scratch<br>Data pipelines, system architecture, and automation<br>Turning ideas into deployable, demo-ready systems fast<br>⚡ Fun fact<br>I design systems that don’t just stay as ideas — I build working prototypes across software + hardware + AI
+# 
+💫 About Me:
+🔭 I’m currently working on<br>M.E.D.I.S. – Portable AI-powered medicine synthesis system (microfluidics + automation + AI dosing)<br>Voice-Scaffold – Voice → Infrastructure compiler (Docker, FastAPI, AST-based generation)<br>InsightSentinel – AI-driven data monitoring & decision intelligence platform<br>
+
+👯 I’m looking to collaborate on<br>Deep-tech hardware + AI systems (MedTech, BioTech, Edge AI)<br>Data Engineering systems (Kafka, Spark, real-time pipelines)<br>Open-source tools that solve real-world inefficiencies<br>
+
+🤝 I’m looking for help with<br>Microfluidics & lab validation (for MEDIS)<br>Hardware partnerships (NVIDIA / Edge AI / embedded systems)<br>Regulatory pathways (EU MDR, medical device compliance)<br>
+
+🌱 I’m currently learning<br>Advanced Data Engineering (Kafka, Spark, distributed systems)<br>Edge AI + embedded inference (Jetson, ONNX)<br>System design for scalable + real-time architectures<br>💬 Ask me about<br>Building real-world AI + hardware products from scratch<br>Data pipelines, system architecture, and automation<br>Turning ideas into deployable, demo-ready systems fast<br>
+
+⚡ Fun fact<br>I design systems that don’t just stay as ideas — I build working prototypes across software + hardware + AI
 
 
 ## 🌐 Socials:
